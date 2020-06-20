@@ -56,6 +56,12 @@ export default {
           name: "脚本语言（REXX）",
           path: "rexx",
           icon: "snippets"
+        },
+        {
+          name: "主机软件安装（SMP/E）",
+          path: "smp",
+          submit: "x",
+          review: 5
         }
       ]
     };

@@ -173,6 +173,9 @@ export default {
         case "rexx":
           title = "脚本语言（REXX）";
           break;
+        case "smp" :
+          title = "主机软件安装（SMP/E）";
+          break;
         default:
           break;
       }
